@@ -19,6 +19,6 @@ export default {
 }
 </script>
 
-<style lang="sass">
-  @import './styles/style.scss'
+<style lang="stylus">
+  @require './styles/style'
 </style>
