@@ -1,3 +1,8 @@
+# update: Try Official vue-cli
+https://github.com/vuejs/vue-cli
+
+------
+
 # Vue.js Skeleton
 
 - Vue.js: http://vuejs.org/
